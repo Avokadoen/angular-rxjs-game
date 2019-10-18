@@ -1,4 +1,4 @@
-[img](https://github.com/Avokadoen/angular-rxjs-game/blob/master/p.png)
+![img](https://github.com/Avokadoen/angular-rxjs-game/blob/master/p.png)
 
 # NgGame
 
